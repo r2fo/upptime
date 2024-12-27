@@ -1,34 +1,66 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: r2fo # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Homepage
+    url: https://r4fo.com
+  - name: SearXNG
+    url: https://search.r4fo.com
+  - name: MiniSearch
+    url: https://minisearch.r4fo.com
+  - name: Whoogle
+    url: https://whoogle.r4fo.com
+  - name: RedLib
+    url: https://redlib.r4fo.com
+  - name: Nitter
+    url: https://nitter.r4fo.com
+  - name: GotHub
+    url: https://gothub.r4fo.com
+  - name: Anonymous Overflow
+    url: https://overflow.r4fo.com
+  - name: Wikiless
+    url: https://wikiless.r4fo.com
+  - name: Scribe
+    url: https://scribe.r4fo.com
+  - name: BreezeWiki
+    url: https://breezewiki.r4fo.com
+  - name: Quetre
+    url: https://quetre.r4fo.com
+  - name: LibremDB
+    url: https://libremdb.r4fo.com
+  - name: Mozhi
+    url: https://mozhi.r4fo.com
+  - name: NL1
+    url: 158.
+    port: 53
+    check: "tcp-ping"
+    ipv6: true
+  - name: NL2
+    url: 144.21.35.83
+    port: 53
+    check: "tcp-ping"
+    ipv6: true
+  - name: NYC1
+    url: 193.38.248.237
+    port: 53
     check: "tcp-ping"
     ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.r4fo.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://r4fo.com/images/site-logo.svg
+  name: R4fo.com Status
+  introTitle: "**R4fo.com** Services Status"
+  introMessage: service status is updated every 5 minutes
   navbar:
     - title: Status
       href: /
+    - title: R4FO.COM
+      href: https://r4fo.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 

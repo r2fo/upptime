@@ -32,7 +32,7 @@ sites:
   - name: Mozhi
     url: https://mozhi.r4fo.com
   - name: NL1
-    url: 158.
+    url: 144.21.35.84
     port: 53
     check: "tcp-ping"
     ipv6: true

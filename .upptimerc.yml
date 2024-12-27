@@ -52,7 +52,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.r4fo.com
   # baseUrl: /your-repo-name
-  logoUrl: https://r4fo.com/images/site-logo.svg
+  #logoUrl: https://r4fo.com/images/site-logo.svg
   name: R4fo.com Status
   introTitle: "**R4fo.com** Services Status"
   introMessage: service status is updated every 5 minutes

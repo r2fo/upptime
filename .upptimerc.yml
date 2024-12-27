@@ -50,8 +50,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.r4fo.com
-  # baseUrl: /your-repo-name
+  #cname: status.r4fo.com
+  baseUrl: /upptime
   #logoUrl: https://r4fo.com/images/site-logo.svg
   name: R4fo.com Status
   introTitle: "**R4fo.com** Services Status"

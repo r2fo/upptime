@@ -31,28 +31,28 @@ sites:
     url: https://libremdb.r4fo.com
   - name: Mozhi
     url: https://mozhi.r4fo.com
-  #- name: NL1
-    #url: 144.21.35.84
-    #port: 53
-    #check: "tcp-ping"
-    #ipv6: true
-  #- name: NL2
-    #url: 144.21.35.83
-    #port: 53
-    #check: "tcp-ping"
-    #ipv6: true
-  #- name: NYC1
-    #url: 193.38.248.237
-    #port: 53
-    #check: "tcp-ping"
-    #ipv6: true
+  - name: NL1
+    url: 144.21.35.84
+    port: 53
+    check: "tcp-ping"
+    ipv6: true
+  - name: NL2
+    url: 144.21.35.83
+    port: 53
+    check: "tcp-ping"
+    ipv6: true
+  - name: NYC1
+    url: 193.38.248.237
+    port: 53
+    check: "tcp-ping"
+    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: status.r4fo.com
   baseUrl: /upptime
-  #logoUrl: https://r4fo.com/images/site-logo.svg
+  logoUrl: https://r4fo.com/images/site-logo.svg
   name: R4fo.com Status
   introTitle: "**R4fo.com** Services Status"
   introMessage: service status is updated every 5 minutes

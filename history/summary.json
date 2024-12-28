@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 105,
+    "timeDay": 73,
     "timeWeek": 105,
     "timeMonth": 105,
     "timeYear": 105,
@@ -23,13 +23,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.r4fo.com.ico",
     "slug": "sear-xng",
     "status": "down",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "98.88%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "98.88%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
     "time": 121,
-    "timeDay": 123,
+    "timeDay": 85,
     "timeWeek": 121,
     "timeMonth": 121,
     "timeYear": 121,
@@ -49,12 +49,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 103,
-    "timeDay": 96,
+    "timeDay": 86,
     "timeWeek": 103,
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2024-12-28": 1078,
+      "2024-12-28": 1099,
       "2024-12-27": 363
     }
   },
@@ -63,18 +63,20 @@
     "url": "https://whoogle.r4fo.com",
     "icon": "https://icons.duckduckgo.com/ip3/whoogle.r4fo.com.ico",
     "slug": "whoogle",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 1430,
-    "timeDay": 1725,
+    "timeDay": 3241,
     "timeWeek": 1430,
     "timeMonth": 1430,
     "timeYear": 1430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-28": 5
+    }
   },
   {
     "name": "RedLib",
@@ -88,12 +90,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 72,
-    "timeDay": 64,
+    "timeDay": 46,
     "timeWeek": 72,
     "timeMonth": 72,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2024-12-28": 1078,
+      "2024-12-28": 1099,
       "2024-12-27": 363
     }
   },
@@ -109,12 +111,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 78,
-    "timeDay": 81,
+    "timeDay": 45,
     "timeWeek": 78,
     "timeMonth": 78,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2024-12-28": 1078,
+      "2024-12-28": 1099,
       "2024-12-27": 362
     }
   },
@@ -124,18 +126,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gothub.r4fo.com.ico",
     "slug": "got-hub",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "98.55%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
     "time": 670,
-    "timeDay": 811,
+    "timeDay": 1494,
     "timeWeek": 670,
     "timeMonth": 670,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2024-12-28": 0
+      "2024-12-28": 21
     }
   },
   {
@@ -144,13 +146,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/overflow.r4fo.com.ico",
     "slug": "anonymous-overflow",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "98.95%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "98.95%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.96%",
     "time": 252,
-    "timeDay": 268,
+    "timeDay": 406,
     "timeWeek": 252,
     "timeMonth": 252,
     "timeYear": 252,
@@ -163,19 +165,19 @@
     "url": "https://wikiless.r4fo.com",
     "icon": "https://icons.duckduckgo.com/ip3/wikiless.r4fo.com.ico",
     "slug": "wikiless",
-    "status": "down",
-    "uptime": "98.23%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "98.23%",
-    "uptimeMonth": "98.23%",
-    "uptimeYear": "98.23%",
-    "time": 158,
-    "timeDay": 150,
-    "timeWeek": 158,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "status": "up",
+    "uptime": "97.17%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "97.17%",
+    "time": 381,
+    "timeDay": 696,
+    "timeWeek": 381,
+    "timeMonth": 381,
+    "timeYear": 381,
     "dailyMinutesDown": {
-      "2024-12-28": 25
+      "2024-12-28": 41
     }
   },
   {
@@ -184,18 +186,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/scribe.r4fo.com.ico",
     "slug": "scribe",
     "status": "down",
-    "uptime": "87.38%",
-    "uptimeDay": "87.37%",
-    "uptimeWeek": "87.38%",
-    "uptimeMonth": "87.38%",
-    "uptimeYear": "87.38%",
+    "uptime": "86.14%",
+    "uptimeDay": "85.94%",
+    "uptimeWeek": "86.14%",
+    "uptimeMonth": "86.14%",
+    "uptimeYear": "86.14%",
     "time": 418,
-    "timeDay": 411,
+    "timeDay": 429,
     "timeWeek": 418,
     "timeMonth": 418,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2024-12-28": 182
+      "2024-12-28": 202
     }
   },
   {
@@ -204,18 +206,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/breezewiki.r4fo.com.ico",
     "slug": "breeze-wiki",
     "status": "down",
-    "uptime": "98.30%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "98.30%",
+    "uptime": "96.92%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "96.92%",
+    "uptimeMonth": "96.92%",
+    "uptimeYear": "96.92%",
     "time": 113,
-    "timeDay": 113,
+    "timeDay": 82,
     "timeWeek": 113,
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-12-28": 24
+      "2024-12-28": 45
     }
   },
   {
@@ -224,18 +226,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/quetre.r4fo.com.ico",
     "slug": "quetre",
     "status": "down",
-    "uptime": "98.59%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.59%",
+    "uptime": "97.20%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "97.20%",
+    "uptimeMonth": "97.20%",
+    "uptimeYear": "97.20%",
     "time": 114,
-    "timeDay": 107,
+    "timeDay": 100,
     "timeWeek": 114,
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-12-28": 20
+      "2024-12-28": 41
     }
   },
   {
@@ -244,18 +246,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/libremdb.r4fo.com.ico",
     "slug": "librem-db",
     "status": "down",
-    "uptime": "98.31%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.31%",
+    "uptime": "96.92%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "96.92%",
+    "uptimeMonth": "96.92%",
+    "uptimeYear": "96.92%",
     "time": 131,
-    "timeDay": 129,
+    "timeDay": 140,
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2024-12-28": 24
+      "2024-12-28": 45
     }
   },
   {
@@ -263,19 +265,19 @@
     "url": "https://mozhi.r4fo.com",
     "icon": "https://icons.duckduckgo.com/ip3/mozhi.r4fo.com.ico",
     "slug": "mozhi",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
-    "time": 140,
-    "timeDay": 133,
-    "timeWeek": 140,
-    "timeMonth": 140,
-    "timeYear": 140,
+    "status": "up",
+    "uptime": "98.29%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "98.29%",
+    "time": 1391,
+    "timeDay": 3258,
+    "timeWeek": 1391,
+    "timeMonth": 1391,
+    "timeYear": 1391,
     "dailyMinutesDown": {
-      "2024-12-28": 7
+      "2024-12-28": 25
     }
   },
   {
@@ -295,7 +297,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-28": 1078,
+      "2024-12-28": 1099,
       "2024-12-27": 362
     }
   },
@@ -316,7 +318,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-28": 1078,
+      "2024-12-28": 1099,
       "2024-12-27": 362
     }
   },
@@ -332,7 +334,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 19,
-    "timeDay": 19,
+    "timeDay": 17,
     "timeWeek": 19,
     "timeMonth": 19,
     "timeYear": 19,

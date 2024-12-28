@@ -22,17 +22,17 @@
     "url": "https://search.r4fo.com",
     "icon": "https://icons.duckduckgo.com/ip3/search.r4fo.com.ico",
     "slug": "sear-xng",
-    "status": "down",
+    "status": "up",
     "uptime": "98.91%",
     "uptimeDay": "98.88%",
     "uptimeWeek": "98.91%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "98.91%",
-    "time": 121,
-    "timeDay": 85,
-    "timeWeek": 121,
-    "timeMonth": 121,
-    "timeYear": 121,
+    "time": 151,
+    "timeDay": 179,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {
       "2024-12-28": 16
     }
@@ -54,7 +54,7 @@
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2024-12-28": 1119,
+      "2024-12-28": 1125,
       "2024-12-27": 363
     }
   },
@@ -63,19 +63,19 @@
     "url": "https://whoogle.r4fo.com",
     "icon": "https://icons.duckduckgo.com/ip3/whoogle.r4fo.com.ico",
     "slug": "whoogle",
-    "status": "down",
-    "uptime": "98.33%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "98.33%",
-    "time": 1430,
-    "timeDay": 3241,
-    "timeWeek": 1430,
-    "timeMonth": 1430,
-    "timeYear": 1430,
+    "status": "up",
+    "uptime": "98.10%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "98.10%",
+    "time": 1295,
+    "timeDay": 2367,
+    "timeWeek": 1295,
+    "timeMonth": 1295,
+    "timeYear": 1295,
     "dailyMinutesDown": {
-      "2024-12-28": 25
+      "2024-12-28": 28
     }
   },
   {
@@ -95,7 +95,7 @@
     "timeMonth": 72,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2024-12-28": 1119,
+      "2024-12-28": 1125,
       "2024-12-27": 363
     }
   },
@@ -116,7 +116,7 @@
     "timeMonth": 78,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2024-12-28": 1119,
+      "2024-12-28": 1125,
       "2024-12-27": 362
     }
   },
@@ -126,18 +126,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gothub.r4fo.com.ico",
     "slug": "got-hub",
     "status": "up",
-    "uptime": "97.23%",
-    "uptimeDay": "97.15%",
-    "uptimeWeek": "97.23%",
-    "uptimeMonth": "97.23%",
-    "uptimeYear": "97.23%",
+    "uptime": "96.79%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "96.79%",
+    "uptimeYear": "96.79%",
     "time": 670,
     "timeDay": 1494,
     "timeWeek": 670,
     "timeMonth": 670,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2024-12-28": 41
+      "2024-12-28": 48
     }
   },
   {
@@ -166,11 +166,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wikiless.r4fo.com.ico",
     "slug": "wikiless",
     "status": "up",
-    "uptime": "97.21%",
+    "uptime": "97.22%",
     "uptimeDay": "97.13%",
-    "uptimeWeek": "97.21%",
-    "uptimeMonth": "97.21%",
-    "uptimeYear": "97.21%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "97.22%",
+    "uptimeYear": "97.22%",
     "time": 381,
     "timeDay": 696,
     "timeWeek": 381,
@@ -186,18 +186,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/scribe.r4fo.com.ico",
     "slug": "scribe",
     "status": "down",
-    "uptime": "84.98%",
-    "uptimeDay": "84.55%",
-    "uptimeWeek": "84.98%",
-    "uptimeMonth": "84.98%",
-    "uptimeYear": "84.98%",
+    "uptime": "84.60%",
+    "uptimeDay": "84.09%",
+    "uptimeWeek": "84.60%",
+    "uptimeMonth": "84.60%",
+    "uptimeYear": "84.60%",
     "time": 418,
     "timeDay": 429,
     "timeWeek": 418,
     "timeMonth": 418,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2024-12-28": 222
+      "2024-12-28": 229
     }
   },
   {
@@ -205,19 +205,19 @@
     "url": "https://breezewiki.r4fo.com",
     "icon": "https://icons.duckduckgo.com/ip3/breezewiki.r4fo.com.ico",
     "slug": "breeze-wiki",
-    "status": "down",
-    "uptime": "95.61%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "95.61%",
-    "uptimeMonth": "95.61%",
-    "uptimeYear": "95.61%",
-    "time": 113,
-    "timeDay": 82,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "status": "up",
+    "uptime": "95.36%",
+    "uptimeDay": "95.20%",
+    "uptimeWeek": "95.36%",
+    "uptimeMonth": "95.36%",
+    "uptimeYear": "95.36%",
+    "time": 156,
+    "timeDay": 205,
+    "timeWeek": 156,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-12-28": 65
+      "2024-12-28": 69
     }
   },
   {
@@ -226,11 +226,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/quetre.r4fo.com.ico",
     "slug": "quetre",
     "status": "up",
-    "uptime": "96.15%",
+    "uptime": "96.16%",
     "uptimeDay": "96.04%",
-    "uptimeWeek": "96.15%",
-    "uptimeMonth": "96.15%",
-    "uptimeYear": "96.15%",
+    "uptimeWeek": "96.16%",
+    "uptimeMonth": "96.16%",
+    "uptimeYear": "96.16%",
     "time": 126,
     "timeDay": 137,
     "timeWeek": 126,
@@ -246,11 +246,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/libremdb.r4fo.com.ico",
     "slug": "librem-db",
     "status": "up",
-    "uptime": "95.82%",
+    "uptime": "95.84%",
     "uptimeDay": "95.70%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "95.82%",
-    "uptimeYear": "95.82%",
+    "uptimeWeek": "95.84%",
+    "uptimeMonth": "95.84%",
+    "uptimeYear": "95.84%",
     "time": 167,
     "timeDay": 209,
     "timeWeek": 167,
@@ -266,11 +266,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mozhi.r4fo.com.ico",
     "slug": "mozhi",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.32%",
     "uptimeDay": "98.26%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.31%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.32%",
     "time": 1391,
     "timeDay": 3258,
     "timeWeek": 1391,
@@ -297,7 +297,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-28": 1119,
+      "2024-12-28": 1126,
       "2024-12-27": 362
     }
   },
@@ -318,7 +318,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-28": 1119,
+      "2024-12-28": 1126,
       "2024-12-27": 362
     }
   },

@@ -17,7 +17,7 @@ sites:
   - name: Nitter
     url: https://nitter.r4fo.com
   - name: GotHub
-    url: https://gothub.r4fo.com
+    url: https://gothub.r4fo.com/about
   - name: Anonymous Overflow
     url: https://overflow.r4fo.com
   - name: Wikiless

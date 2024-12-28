@@ -1,6 +1,7 @@
 # Change these first
 owner: r2fo # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: rafo-upptime
 
 sites:
   - name: Homepage

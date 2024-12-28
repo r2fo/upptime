@@ -52,7 +52,8 @@
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2024-12-27": 334
+      "2024-12-28": 52,
+      "2024-12-27": 363
     }
   },
   {
@@ -90,7 +91,8 @@
     "timeMonth": 72,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2024-12-27": 334
+      "2024-12-28": 52,
+      "2024-12-27": 363
     }
   },
   {
@@ -110,7 +112,8 @@
     "timeMonth": 78,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2024-12-27": 334
+      "2024-12-28": 52,
+      "2024-12-27": 362
     }
   },
   {
@@ -173,19 +176,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/scribe.r4fo.com.ico",
     "slug": "scribe",
     "status": "up",
-    "uptime": "98.14%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "98.14%",
-    "uptimeYear": "98.14%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 418,
     "timeDay": 418,
     "timeWeek": 418,
     "timeMonth": 418,
     "timeYear": 418,
-    "dailyMinutesDown": {
-      "2024-12-27": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BreezeWiki",
@@ -276,7 +277,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-27": 334
+      "2024-12-28": 52,
+      "2024-12-27": 362
     }
   },
   {
@@ -296,7 +298,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-27": 334
+      "2024-12-28": 52,
+      "2024-12-27": 362
     }
   },
   {

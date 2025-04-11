@@ -40,10 +40,6 @@ sites:
     url: 158.178.150.161
     port: 443
     check: "tcp-ping"
-  - name: NYC1
-    url: 193.38.248.237
-    port: 443
-    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

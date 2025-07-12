@@ -32,14 +32,6 @@ sites:
     url: https://libremdb.r4fo.com
   - name: Mozhi
     url: https://mozhi.r4fo.com
-  - name: NL1
-    url: 144.21.35.84
-    port: 443
-    check: "tcp-ping"
-  - name: NL2
-    url: 158.178.150.161
-    port: 443
-    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -609,7 +609,7 @@
     "timeMonth": 132,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2025-11-11": 1388,
+      "2025-11-11": 1409,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
@@ -1154,15 +1154,15 @@
     "url": "https://wikiless.r4fo.com",
     "icon": "https://icons.duckduckgo.com/ip3/wikiless.r4fo.com.ico",
     "slug": "wikiless",
-    "status": "up",
-    "uptime": "88.77%",
-    "uptimeDay": "79.34%",
+    "status": "down",
+    "uptime": "88.78%",
+    "uptimeDay": "79.31%",
     "uptimeWeek": "93.49%",
     "uptimeMonth": "95.47%",
-    "uptimeYear": "88.77%",
+    "uptimeYear": "88.78%",
     "time": 528,
-    "timeDay": 631,
-    "timeWeek": 633,
+    "timeDay": 628,
+    "timeWeek": 632,
     "timeMonth": 649,
     "timeYear": 528,
     "dailyMinutesDown": {
@@ -1251,8 +1251,7 @@
       "2025-04-25": 17,
       "2025-04-23": 18,
       "2025-04-20": 32,
-      "2025-04-18": 16,
-      "2025-04-17": 26
+      "2025-04-18": 16
     }
   },
   {

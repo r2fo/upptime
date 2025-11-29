@@ -9,15 +9,15 @@ sites:
   - name: NL1 (server - hosting)
     check: "tcp-ping"
     url: $NL1
-    port: 53
+    port: 22
   - name: NL2 (server - BGP)
     check: "tcp-ping"
     url: $NL2
-    port: 53
+    port: 22
   - name: DE1 (server - BGP)
     check: "tcp-ping"
     url: $DE1
-    port: 53
+    port: 22
   - name: SearXNG
     url: https://search.r4fo.com
   - name: MiniSearch

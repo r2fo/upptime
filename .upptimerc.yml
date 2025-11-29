@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 user-agent: rafo-upptime
 
 sites:
-  - name: Homepage
+  - name: r4fo.com
     url: https://r4fo.com
   - name: NL1 (server - hosting)
     check: "tcp-ping"
